@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099405164589",
+    "project_id": "alsai-806ca",
+    "storage_bucket": "alsai-806ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099405164589:android:bdf2eea41b8d55869738a4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMmthffedlhcTtkwjwRAtiwHu56TgPo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
