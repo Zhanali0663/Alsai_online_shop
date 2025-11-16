@@ -1,15 +1,39 @@
+# Android Studio / IntelliJ
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configs
 local.properties
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Cache
+captures/
+.cxx/
+
+# Keystore (если есть)
+*.keystore
+*.jks
+
+# Misc
+metadata/
+nav_editor_config.xml
+
+# Firebase
+# google-services.json — можно оставить, если НЕ приватный ключ
+# Если хочешь скрыть:
+# app/google-services.json
