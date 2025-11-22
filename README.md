@@ -77,7 +77,7 @@ Alsai is a feature-rich online shopping application built with modern Android te
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Zhanali0663/Alsai_online_shop/
 ```
 
 2. Open the project in Android Studio
@@ -101,11 +101,11 @@ git clone [your-repository-url]
 
 ### 📄 License
 
-[Your License Here]
+MIT License
 
 ### 👥 Contributors
 
-[Your Name/Team]
+Zhanali0663
 
 ---
 
@@ -180,7 +180,7 @@ Alsai — это многофункциональное приложение д�
 
 1. Клонируйте репозиторий
 ```bash
-git clone [ссылка-на-репозиторий]
+git clone https://github.com/Zhanali0663/Alsai_online_shop/
 ```
 
 2. Откройте проект в Android Studio
@@ -204,11 +204,11 @@ git clone [ссылка-на-репозиторий]
 
 ### 📄 Лицензия
 
-[Ваша лицензия]
+MIT License
 
 ### 👥 Участники
 
-[Ваше имя/команда]
+Zhanali0663
 
 ---
 
@@ -216,7 +216,7 @@ git clone [ссылка-на-репозиторий]
 
 **Сделано с ❤️**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo)
+[![GitHub stars](https://img.shields.io/github/stars/Zhanali0663/Alsai_online_shop?style=social)](https://github.com/Zhanali0663/Alsai_online_shop)
+[![GitHub forks](https://img.shields.io/github/forks/Zhanali0663/Alsai_online_shop?style=social)](https://github.com/Zhanali0663/Alsai_online_shop)
 
 </div>
